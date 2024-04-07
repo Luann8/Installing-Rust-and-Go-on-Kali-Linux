@@ -1,4 +1,3 @@
-<title>Instalação do Rust no Kali Linux</title>
     
    </head><body>  <header>
      <h1>Instalação do Rust no Kali Linux</h1>
