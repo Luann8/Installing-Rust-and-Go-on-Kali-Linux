@@ -1,5 +1,5 @@
-body>
-    <header>
+
+ <header>
         <h1>Instalação do Rust no Kali Linux</h1>
     </header>
 
