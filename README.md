@@ -20,4 +20,4 @@
 <footer>
         <p>Para mais informações, consulte a <a href="https://www.rust-lang.org/tools/install">documentação oficial de instalação do Rust</a>.</p>
     </footer>
-![image](https://github.com/Luann8/Rust-install-kali-linux/blob/main/Apresenta%C3%A7%C3%A3o1.png?raw=true)
+![image](https://raw.githubusercontent.com/Luann8/Rust-install-kali-linux/main/Apresenta%C3%A7%C3%A3o1.png)
