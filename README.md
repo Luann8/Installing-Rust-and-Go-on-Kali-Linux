@@ -1,9 +1,8 @@
-    <title>Instalação do Rust no Kali Linux</title>
+<title>Instalação do Rust no Kali Linux</title>
     
-    </head><body>  <header>
+   </head><body>  <header>
      <h1>Instalação do Rust no Kali Linux</h1>
        </header>
-
     <section>
         <h2>Passos para instalar o Rust no Kali Linux</h2>
         <ol>
