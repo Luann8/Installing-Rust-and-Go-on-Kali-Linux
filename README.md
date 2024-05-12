@@ -34,4 +34,4 @@
 </section>
 
 
-<img src="https://pica.zhimg.com/v2-483717ce2b233d05cebc52dafee1655c_720w.jpg?source=172ae18b" alt="Presentation1">
+<img src="https://github.com/Luann8/Rust-install-kali-linux/blob/main/1.jpg?raw=true" alt="Presentation1">
