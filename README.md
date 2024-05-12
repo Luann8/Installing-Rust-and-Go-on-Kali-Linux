@@ -1,5 +1,6 @@
+
 <header>
-    <h1>Installing Rust on Kali Linux</h1>
+    <h1>Installing Rust and Go on Kali Linux</h1>
 </header>
 
 <section>
@@ -16,6 +17,21 @@
     </ol>
 </section>
 
+<section>
+    <h2>Steps to Install Go (Golang) on Kali Linux</h2>
+    <ol>
+        <li>Download the Go binary distribution:</li>
+        <pre>wget https://golang.org/dl/go1.17.linux-amd64.tar.gz</pre>
+        <li>Extract the downloaded archive:</li>
+        <pre>sudo tar -C /usr/local -xzf go1.17.linux-amd64.tar.gz</pre>
+        <li>Add Go binary directory to your PATH:</li>
+        <pre>echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bashrc</pre>
+        <li>Reload your shell configuration:</li>
+        <pre>source ~/.bashrc</pre>
+        <li>Verify if the installation was successful:</li>
+        <pre>go version</pre>
+    </ol>
+</section>
 <footer>
     <p>For more information, see the <a href="https://www.rust-lang.org/tools/install">official Rust installation documentation</a>.</p>
 </footer>
