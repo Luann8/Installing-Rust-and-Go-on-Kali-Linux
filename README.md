@@ -32,8 +32,6 @@
         <pre>go version</pre>
     </ol>
 </section>
-<footer>
-    <p>For more information, see the <a href="https://www.rust-lang.org/tools/install">official Rust installation documentation</a>.</p>
-</footer>
 
-<img src="https://raw.githubusercontent.com/Luann8/Rust-install-kali-linux/main/Apresenta%C3%A7%C3%A3o1.png" alt="Presentation1">
+
+<img src="https://pica.zhimg.com/v2-483717ce2b233d05cebc52dafee1655c_720w.jpg?source=172ae18b" alt="Presentation1">
